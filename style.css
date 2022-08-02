@@ -887,6 +887,12 @@ aside{
 
 }
 
+.rightArrow img:hover{
+    background-color: rgb(235, 29, 54,0.7);
+    cursor: pointer;
+    transform:scale(70px,70px);
+}
+
 .leftArrow img:hover{
     background-color: rgb(235, 29, 54,0.7);
     cursor: pointer;
